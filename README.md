@@ -1,1 +1,1 @@
-all AZURE terraform
+
