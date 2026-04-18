@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Terraform Azure Infrastructure Deployment 🚀
 
 This project uses **Terraform** to provision and manage Azure infrastructure.
@@ -140,4 +141,6 @@ If you face any issues, feel free to raise an issue or contribute to the reposit
 ---
 
 
+=======
+>>>>>>> a186145c534c43114bbe448699d2ec36d13c207e
 
